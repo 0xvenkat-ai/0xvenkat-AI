@@ -105,8 +105,25 @@ public class VenkatesanSingaravel implements Architect {
 
 <div align="center">
 
+<a href="https://github.com/0xvenkat-ai">
+  <img height="180" src="https://acedev003-readme-stats.vercel.app/api?username=0xvenkat-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/0xvenkat-ai">
+  <img height="180" src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=0xvenkat-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
 <img src="https://streak-stats.demolab.com?user=0xvenkat-ai&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
+<img src="https://activity-graph.vercel.app/graph?username=0xvenkat-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Wall
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=0xvenkat-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>
