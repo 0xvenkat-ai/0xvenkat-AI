@@ -223,14 +223,6 @@ public class VenkatesanSingaravel implements Architect {
 
 </div>
 
-## 📚 Currently Learning
-
-```
-🧱 Agentic AI            → Multi-agent orchestration, tool-use workflows, RFI automation
-🧱 LLM Evaluation        → Accuracy benchmarking for RAG pipelines, hallucination detection
-🧱 Vector Search at Scale→ LanceDB / FAISS optimization, hybrid semantic + fuzzy matching
-```
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
