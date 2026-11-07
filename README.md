@@ -54,51 +54,13 @@ public class VenkatesanSingaravel implements Architect {
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-
-**Tools & Messaging**
-
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=flat-square&logo=apache&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<table align="center">
+<tr><td align="center"><b>Languages</b></td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" width="48" height="48" alt="Java"/><br>Java</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=go&theme=dark" width="48" height="48" alt="Go"/><br>Go</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br>Python</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br>JavaScript</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/><br>TypeScript</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=plsql&theme=dark" width="48" height="48" alt="SQL"/><br>SQL</td><td></td></tr>
+<tr><td align="center"><b>Frameworks</b></td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot"/><br>Spring Boot</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate&theme=dark" width="48" height="48" alt="Hibernate"/><br>Hibernate</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br>FastAPI</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark" width="48" height="48" alt="Express.js"/><br>Express.js</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br>React</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL"/><br>GraphQL</td><td></td></tr>
+<tr><td align="center"><b>Cloud &amp; DevOps</b></td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br>AWS</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br>Docker</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins&theme=dark" width="48" height="48" alt="Jenkins"/><br>Jenkins</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br>Git</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus&theme=dark" width="48" height="48" alt="Prometheus"/><br>Prometheus</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana"/><br>Grafana</td><td></td></tr>
+<tr><td align="center"><b>Databases</b></td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=oracle&theme=dark" width="48" height="48" alt="Oracle"/><br>Oracle</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/><br>MySQL</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br>MongoDB</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/><br>Redis</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch&theme=dark" width="48" height="48" alt="Elasticsearch"/><br>Elasticsearch</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark" width="48" height="48" alt="Neo4j"/><br>Neo4j</td></tr>
+<tr><td align="center"><b>Tools &amp; Messaging</b></td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka"/><br>Kafka</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=pulsar&theme=dark" width="48" height="48" alt="Pulsar"/><br>Pulsar</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=dark" width="48" height="48" alt="RabbitMQ"/><br>RabbitMQ</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=dark" width="48" height="48" alt="JIRA"/><br>JIRA</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry&theme=dark" width="48" height="48" alt="OpenTelemetry"/><br>OpenTelemetry</td><td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br>PyTorch</td><td></td></tr>
+</table>
 
 <br/>
 
