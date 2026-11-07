@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="./assets/profile-ascii.svg" alt="Venkatesan Singaravel"/>
+<img align="left" width="380" src="./assets/profile-ascii.svg" alt="Venkatesan Singaravel"/>
 
 ```java
 public class VenkatesanSingaravel implements Architect {
@@ -50,7 +50,7 @@ public class VenkatesanSingaravel implements Architect {
 }
 ```
 
-<br clear="right"/>
+<br clear="left"/>
 
 ## 🛠️ Tech Stack
 
